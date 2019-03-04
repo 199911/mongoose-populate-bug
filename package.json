@@ -1,0 +1,14 @@
+{
+  "name": "mongoose-populate-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/199911/mongoose-populate-bug.git",
+  "author": "Ku Lok Sun <sundaykuloksun@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2",
+    "mongodb-memory-server": "^3.1.2",
+    "mongoose": "^5.4.17"
+  }
+}
